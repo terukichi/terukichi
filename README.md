@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=c,python,emacs)](https://skillicons.dev)
 
-<!--
-## Used Languages
+
+## GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terukichi)](https://github.com/anuragrazra/github-readme-stats)
--->
