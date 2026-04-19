@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,python,emacs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,emacs,ubuntu)](https://skillicons.dev)
 
 
 ## GitHub Stats
