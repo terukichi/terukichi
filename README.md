@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <img
       width="55%"
       alt="GitHub Stats"
-      src="https://github-stats-extended.vercel.app/api?username=terukichi&show_icons=true&theme=city_lights"
+      src="https://github-stats-extended.vercel.app/api?username=terukichi&show_icons=true&rank_icon=github&theme=city_lights"
       />
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
