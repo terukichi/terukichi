@@ -15,10 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,emacs,ubuntu)](https://skillicons.dev)
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img
+      alt="My Skills"
+      src="https://skillicons.dev/icons?i=c,cpp,python,emacs,ubuntu"
+      />
+  </a>
+</div>
 
 ## GitHub Stats
-[![GitHub_Stats](https://github-stats-extended.vercel.app/api?username=terukichi&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=terukichi&layout=donut&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+<div align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img
+      width="55%"
+      alt="GitHub Stats"
+      src="https://github-stats-extended.vercel.app/api?username=terukichi&show_icons=true&theme=city_lights"
+      />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img
+      width="37.5%"
+      alt="Top Langs"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=terukichi&layout=donut&theme=city_lights"
+      />
+  </a>
+</div>
