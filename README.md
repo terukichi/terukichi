@@ -6,7 +6,7 @@
   <a href="https://skillicons.dev">
     <img
       alt="My Skills"
-      src="https://skillicons.dev/icons?i=c,cpp,python,emacs,ubuntu"
+      src="https://skillicons.dev/icons?i=c,cpp,python,julia,emacs,ubuntu"
       />
   </a>
 </div>
