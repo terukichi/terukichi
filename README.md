@@ -23,7 +23,7 @@
     <img
       width="55%"
       alt="GitHub Stats"
-      src="https://github-stats-extended.vercel.app/api?username=terukichi&show_icons=true&rank_icon=github&theme=holi"
+      src="https://github-stats-extended.vercel.app/api?username=terukichi&show_icons=true&rank_icon=github&theme=github_dark_dimmed"
       />
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
@@ -35,7 +35,7 @@
     <img
       width="37.5%"
       alt="Top Langs"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=terukichi&layout=donut&theme=holi"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=terukichi&layout=donut&theme=github_dark_dimmed"
       />
   </a>
 </div>
