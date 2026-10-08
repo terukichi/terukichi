@@ -1,12 +1,12 @@
 # Portfolio
 
-## Skills
+## Languages
 
 <div align="center">
   <a href="https://skillicons.dev">
     <img
       alt="My Skills"
-      src="https://skillicons.dev/icons?i=c,cpp,python,julia,emacs,ubuntu"
+      src="https://skillicons.dev/icons?i=c,cpp,python,julia,emacs"
       />
   </a>
 </div>
